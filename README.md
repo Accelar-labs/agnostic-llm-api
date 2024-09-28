@@ -1,4 +1,4 @@
-# Agnostic Ollama API Setup
+# Agnostic Ollama API Setup - New info added
 
 The main goal of this content is to provide users with a **seamless way to deploy their own LLM with an API interface on any cloud provider**, ensuring that you are not dependent on any internal services (such as AWS SageMaker). This allows you to maintain full control over your model while reducing costs at scale by avoiding third-party APIs.
 </br>
